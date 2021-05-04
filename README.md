@@ -1,5 +1,5 @@
-# vitrine-imersao-dados-3
-Conheça o agregador de projetos da Imersão Dados
+# Vitrine Imersao Dados 3
+Conheça o agregador de projetos da Imersão Dados, coloque a hashtag #imersaodadosv3
 
 | Projeto |
 | --- |
