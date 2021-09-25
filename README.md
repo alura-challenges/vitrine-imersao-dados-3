@@ -203,7 +203,7 @@ Conheça o agregador de projetos da Imersão Dados, coloque a hashtag `#imersaod
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/alinearaujos/ImersaoDados3Alura'/>](https://github.com/alinearaujos/ImersaoDados3Alura)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/yack1993/ImersaoDados3'/>](https://github.com/yack1993/ImersaoDados3)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/rschwenck/ImersaoDadosAlura'/>](https://github.com/rschwenck/ImersaoDadosAlura)
-| [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/viniciusbeckerdesouza/ImersaoDados2021'/>](https://github.com/viniciusbeckerdesouza/ImersaoDados2021)
+| [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/ndaskycris/ImersaoDadosAlura'/>](https://github.com/ndaskycris/ImersaoDadosAlura)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/ndaskycris/ImersaoDadosAlura'/>](https://github.com/ndaskycris/ImersaoDadosAlura)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/EderCruz/Alura-ImersaoDados'/>](https://github.com/EderCruz/Alura-ImersaoDados)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/ARRETdaniel/alura-ImersaoDados'/>](https://github.com/ARRETdaniel/alura-ImersaoDados)
